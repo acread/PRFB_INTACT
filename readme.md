@@ -6,7 +6,7 @@ use whole tissue homegenate (even if this is isolated to specific regions/hole p
 By generating different stress-specific promoter fusions I will be able to pull down nuclei from cells experiencing stress(es) \
 I believe this will boost the signal:noise ratio and allow me to get a better idea of changes in gene expression and DNA methylation
 
-Picture schematic incoming.....
+![image](https://user-images.githubusercontent.com/43852873/159764793-c9c92c0f-bb1a-4052-a83f-50b0e7f51993.png)
 
 ### Caveats and a small risk in the strategy
 Caveat - this is a nuclear sorting strategy.  Any RNA in the cytoplasm will be lost.  There are conflicting reports about the \
