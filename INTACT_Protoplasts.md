@@ -4,13 +4,11 @@ I imaged the protoplasts 24 hours after transformation on the Voytas/Zhang epi-s
 been a little lower for 35s:GFP_WIP than 35s:GFP, but localization looks good (see image below - I also observed many more examples of \
 what appeared to be nuclear foci when scanning the sample). I did try to image at 48 hours on a scope on the 7th floor, but could not \
 figure out how to get it to work.... 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43852873/163430712-704e3bb4-b6fe-4621-beee-c48a979d1167.png" width = "400" >
 </p>
   
-Before I move into transgenic plants I need to confirm that the simplified INTACT system that I am planning to use (GFP pull-down) will work. \
-The easiest way to test this is in protoplasts.
+### Before I move into transgenic plants I need to confirm that the simplified INTACT system that I am planning to use (GFP pull-down) will work. The easiest way to test this is in protoplasts.
 
 ### Initial test strategy - 35s:GFP_WIP
 Probably the simplest method to test the purification is by mixing pools of protoplasts transformed with our 35s:GFP_WIP construct and \
