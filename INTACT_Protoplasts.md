@@ -40,3 +40,11 @@ One potential drawback is that higher concentrations of detergents or longer inc
 damage [4]. So 0.2% (v/v) Triton X-100 and an incubation time
 of 10 min were used. Triton X-100 was stored as a 30% percent
 w/v stock at 15◦C and diluted with isolation buffer.
+
+
+### It looks like anti-GFP magnetic beads should work well (though this use-case was with chloroplasts, which are smaller than nuclei....)
+doi: 10.1111/j.1365-313X.2007.03113.x -- TPJ Truernit 2007
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43852873/165627663-5b1c2d2f-9e33-49b2-815e-ddb2bbc34299.png" width = "700" >
+</p>
