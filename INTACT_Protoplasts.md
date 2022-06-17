@@ -1,3 +1,11 @@
+### Before I move into transgenic plants I need to confirm that the simplified INTACT system that I am planning to use (GFP pull-down) will work. The easiest way to test this is in protoplasts.
+
+### Initial test strategy - 35s:GFP_WIP
+Probably the simplest method to test the purification is by mixing pools of protoplasts transformed with our 35s:GFP_WIP construct and \
+untransformed protoplasts.  We can mix the two pools of protoplasts at various ratios, extract nuclei, and run over our GFP capture beads. \
+Various methods can be used to determine how many GFP nuclei are by-passing the capture and how many non-GFP nuclei are being captured \
+The easiest of which is simple confocal or epifluorescence microscopy.  If we need finer resolution we can isolate RNA and do an RT-PCR.
+
 ### First expression/localization test of 35s:GFP_WIP in Setaria protoplasts
 Jitesh isolated protoplasts and transformed with my 35s:GFP_WIP construct - a 35s:GFP construct was also transformed to compare to. \
 I imaged the protoplasts 24 hours after transformation on the Voytas/Zhang epi-scope - it looks like transformation efficiency may have \
@@ -8,13 +16,12 @@ figure out how to get it to work....
   <img src="https://user-images.githubusercontent.com/43852873/163430712-704e3bb4-b6fe-4621-beee-c48a979d1167.png" width = "400" >
 </p>
   
-### Before I move into transgenic plants I need to confirm that the simplified INTACT system that I am planning to use (GFP pull-down) will work. The easiest way to test this is in protoplasts.
-
-### Initial test strategy - 35s:GFP_WIP
-Probably the simplest method to test the purification is by mixing pools of protoplasts transformed with our 35s:GFP_WIP construct and \
-untransformed protoplasts.  We can mix the two pools of protoplasts at various ratios, extract nuclei, and run over our GFP capture beads. \
-Various methods can be used to determine how many GFP nuclei are by-passing the capture and how many non-GFP nuclei are being captured \
-The easiest of which is simple confocal or epifluorescence microscopy.  If we need finer resolution we can isolate RNA and do an RT-PCR.
+### Second round expression/localization in maize protoplasts
+The same construct was transformed into maize protoplasts by Zach Myers. A free-GFP control was not included. I was able to image these \
+(briefly) on the higher power scopes in the imaging core. Due to limited time available on the scope I was not able to get many images, \
+but it does look like we are seeing strong GFP signal at/near the nuclear membrane (see image).  The next time I do this I am hoping to: \
+1.  Have more time at the scope, and 
+2.  Try the magnetic bead pull down to isolate green nuclei
 
 ### A protocol for nuclei isolation from protoplasts
 doi: 10.1093/abbs/gmz079 -- Acta Biochem Biophys Sin 2019
@@ -41,6 +48,8 @@ damage [4]. So 0.2% (v/v) Triton X-100 and an incubation time
 of 10 min were used. Triton X-100 was stored as a 30% percent
 w/v stock at 15◦C and diluted with isolation buffer.
 
+### A protocol for INTACT nuclei extraction from plant tissue:
+http://plant-plasticity.github.io/resources/INTACT-nuclei-purification.pdf
 
 ### It looks like anti-GFP magnetic beads should work well (though this use-case was with chloroplasts, which are smaller than nuclei....)
 doi: 10.1111/j.1365-313X.2007.03113.x -- TPJ Truernit 2007
